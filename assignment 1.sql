@@ -29,4 +29,4 @@ Example:
 | 101      | Rahul         | Pizza     | Domino's   |   299 |
 | 102      | Priya         | Biryani   | Behrouz    |   350 |
 Here, FoodOrders is the table, each horizontal record is a row, and order_id, customer_name, food_item, restaurant, and price are columns.
-commit
+
